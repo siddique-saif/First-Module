@@ -1,0 +1,440 @@
+Script started on 2021-06-21 17:34:06+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls
+[0m[01;32mmy_unix_session[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ pwd
+/mnt/c/Users/Saif/Documents/Tiger/MLE Module
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls [K[K[Kman ls
+[?1049h[22;0;0t[?1h=LS(1)                                               User Commands                                               LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List  information  about the FILEs (the current directory by default).  Sort entries alphabetically if none of[m
+       [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              with [1m-l[0m, scale sizes by SIZE when printing them; e.g., '--block-size=M'; see SIZE format below[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -l
+total 4
+-rwxrwxrwx 1 saif saif 2048 Jun 21 17:38 [0m[01;32mmy_unix_session[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -l -h
+total 4.0K
+-rwxrwxrwx 1 saif saif 2.0K Jun 21 17:38 [0m[01;32mmy_unix_session[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -F ~[K/mnt/c/U[K
+ls: cannot access '/mnt/c/DumpStack.log.tmp': Permission denied
+ls: cannot access '/mnt/c/hiberfil.sys': Permission denied
+ls: cannot access '/mnt/c/pagefile.sys': Permission denied
+ls: cannot access '/mnt/c/swapfile.sys': Permission denied
+[0m[01;34m'$GetCurrent'[0m/              DumpStack.log       [01;34mPerfLogs[0m/              [01;34m'System Volume Information'[0m/   hiberfil.sys
+[34;42m'$Recycle.Bin'[0m/             DumpStack.log.tmp  [01;34m'Program Files'[0m/         [01;34mUsers[0m/                        pagefile.sys
+[34;42m'$WinREAgent'[0m/              [34;42mIntel[0m/             [01;34m'Program Files (x86)'[0m/   [01;34mWindows[0m/                      swapfile.sys
+ [34;42mAMD[0m/                       [01;34mMSOCache[0m/           [34;42mProgramData[0m/            [01;34mWindows10Upgrade[0m/
+[01;36m'Documents and Settings'[0m@   [34;42mOneDriveTemp[0m/       [01;34mRecovery[0m/               [01;32mbootTel.dat[0m*
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -F [K[K[K[K[K[Kls -F /mnt/c/[K[Kf/t[K[K[Kd/ti[K[KTiger/
+ [0m[01;32m5f33ea904e1e5__1597237904_PFForm11.docx[0m*                  [34;42m'Module 1'[0m/
+[01;32m'5f89775be0a49__1602844507_Letter of Authorization.docx'[0m*  [01;32m'Reference for Tiger profile.zip'[0m*
+[34;42m'Assignment 2'[0m/                                             [01;32mSaifSiddique_profile.docx[0m*
+[01;32m'Md Saif Siddique-Letter of Employment.pdf'[0m*
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ mkdir temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -F
+[0m[01;32mmy_unix_session[0m*  [34;42mtemp[0m/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cd temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ nano tem[K[K[Kdragt[K[Kft. t[K[Ktxt
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           draft.txt                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2dh[?12l[?25h[?25le[?12l[?25h[?25ll[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: draft.txt                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;6H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ touch draft.txt 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ ls -l
+total 0
+-rwxrwxrwx 1 saif saif 6 Jun 21 17:42 [0m[01;32mdraft.txt[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ ls[K[Kls -ltouch draft.txt [2Pnano draft.txt
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 4.8                                           draft.txt                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mhello[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ mv draft.txt ../
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ ls
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cd [K[K[Kls ../
+[0m[01;32mdraft.txt[0m  [01;32mmy_unix_session[0m  [34;42mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cd ..
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cp draft.txt draft2.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ rm draft2.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ rm draft.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls
+[0m[01;32mmy_unix_session[0m  [34;42mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ rm -r temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ mkdir temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cd temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ nano draft.txxt[K[Kt
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           draft.txt                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2ds[?12l[?25h[?25lk[?12l[?25h[?25la[?12l[?25h[?25ll[?12l[?25h[?25lf[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25lh[?12l[?25h[?25ld[?12l[?25h[?25lj[?12l[?25h[?25lf[?12l[?25h[?25lu[?12l[?25h[?25la[?12l[?25h[?25lw[?12l[?25h[?25li[?12l[?25h[?25l [?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25lf[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25la[?12l[?25h[?25lu[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l[28d[K[2;27H[?12l[?25h[?25la[?12l[?25h[?25ld[?12l[?25h[?25lk[?12l[?25h[?25lf[?12l[?25h[?25la[?12l[?25h[?25ll[?12l[?25h[?25lu[?12l[?25h[?25le[?12l[?25h[?25lw[?12l[?25h[?25li[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25lk[?12l[?25h[?25lf[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25li[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ld[?12l[?25h[?25lk[?12l[?25h[?25lf[?12l[?25h[?25lk[?12l[?25h[?25la[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ld[?12l[?25h[?25lf[?12l[?25h[?25lu[?12l[?25h[?25la[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ld[?12l[?25h[?25lk[?12l[?25h[?25lr[?12l[?25h[?25la[?12l[?25h[?25lu[?12l[?25h[?25lo[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[K[?12l[?25h[?25l(B[0;7m<(B[musing these resources effectively.[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[1]+  Stopped                 nano draft.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ nano draft.txt
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28d(B[0;7mFile draft.txt is being edited by saif (with nano 4.8, PID 127); open anyway?                                           [29;1H Y(B[m Yes[30d(B[0;7m N(B[m No[30;17H(B[0;7m^C(B[m Cancel[28;78H[?12l[?25h[?25l[28;54H[1K (B[0;7m[ New File ](B[m[K[H(B[0;7m  GNU nano 4.8                                           draft.txt                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[28d[K[1;111H(B[0;7mModified(B[m[2d(B[0;7m<(B[musing these resources effectively.[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[Csources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using (B[0;7m>[2;118H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: draft.txt                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;78H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ wc draft..[Ktxt
+  1  98 604 draft.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ wc draft.txt > lent[Kgth.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat e[Klent[Kgth.txt
+  1  98 604 draft.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ echo hello > hello.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat hello.txt 
+hello
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ echo good mornig[K[K[K[K[Korning [K[K[K[K[K[K[K[K> hello.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ echo good >> [K[K[K[K[K[K[K[Kmorning >> hello.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat hello.txt 
+good
+morning
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ nano animals.txt
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                          animals.txt                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[28d[K[1;111H(B[0;7mModified(B[m[2d2012-11-05,deer[3d2012-11-05,rabbit[4d2012-11-05,raccoon[5d2012-11-06,rabbit[6d2012-11-06,deer[7d2012-11-06,fox[8d2012-11-07,rabbit[9d2012-11-07,bear[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: animals.txt                                                                                         [28;1H(B[m[28;32H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 8 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[9;16H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat nan[K[K[Kanimals.txt 
+2012-11-05,deer
+2012-11-05,rabbit
+2012-11-05,raccoon
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-06,fox
+2012-11-07,rabbit
+2012-11-07,bear
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat animals.txt | head -n 5 | tail -n 3 | sort -r > final.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cat t[Kfinal.txt
+2012-11-06,rabbit
+2012-11-06,deer
+2012-11-05,raccoon
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cc[Kt[K[Kcut -d f[K[K[Kd, -f 2 anma[K[Kiam[K[Kmals.txt 
+deer
+rabbit
+raccoon
+rabbit
+deer
+fox
+rabbit
+bear
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cut -d, -f 2 animals.txt | sort | uniq -c
+      1 bear
+      2 deer
+      1 fox
+      3 rabbit
+      1 raccoon
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/temp[00m$ cd ..
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cp -r [K[K[K/mnt/c/Users/Saif/Dwo[K[Kownloads/shell-lesson-data ./
+cp: -r not specified; omitting directory '/mnt/c/Users/Saif/Downloads/shell-lesson-data'
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cp /mnt/c/Users/Saif/Downloads/shell-lesson-data ./[1@- /mnt/c/Users/Saif/Downloads/shell-lesson-data ./ [A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr/mnt/c/Users/Saif/Downloads/shell-lesson-data ./ [A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C /mnt/c/Users/Saif/Downloads/shell-lesson-data ./[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C
+
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls
+[0m[01;32mmy_unix_session[0m  [34;42mshell-lesson-data[0m  [34;42mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cd shell-lesson-data/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[00m$ ls
+[0m[34;42mcreatures[0m  [34;42mdata[0m  [34;42mmolecules[0m  [34;42mnorth-pacific-gyre[0m  [01;32mnotes.txt[0m  [01;32mpizza.cfg[0m  [01;32msolar.pdf[0m  [34;42mwriting[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[00m$ cd molecules/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ ls
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ for datafile in *.pdb
+> do 
+> ls *.pdb
+> done
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ for datafile in *.pdb [K
+> do
+> ls $datafile
+> done
+[0m[01;32mcubane.pdb[0m
+[0m[01;32methane.pdb[0m
+[0m[01;32mmethane.pdb[0m
+[0m[01;32moctane.pdb[0m
+[0m[01;32mpentane.pdb[0m
+[0m[01;32mpropane.pdb[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ for filename in c*
+> do 
+> ls $filename
+> done
+[0m[01;32mcubane.pdb[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ doe [K[K[K[Kfor alkanes in *.pdb
+> do
+> echo $alkal[Knes
+> cat $alkanes > alkanes. [Kpdb
+> done
+cubane.pdb
+ethane.pdb
+methane.pdb
+octane.pdb
+pentane.pdb
+propane.pdb
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ do[K[Kfor filenam [Ke n [K[Kin *.dat
+> do 
+> echo fil[K[K[K$filename
+> head 0[K-n 100 $filename | tal[Kil -n 20
+> done
+*.dat
+head: cannot open '*.dat' for reading: No such file or directory
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ for filename in *.dat; do  echo $filename; head -n 100 $filename | tail -n 20; done[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ [C[C[C[Calkanes in *.pdb; do e[11Pcho $alkanes; cat $alkanes > alkanes.pdb[C[C[C[C[C[C[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ [C[C[C[Cfilename in *.dat; do [11@ echo $filename; head -n 100 $filename | tail -n 20[C[C[C[C[C[C[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../creatures/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[00m$ cd ../creatures/for filename in *.dat; do  echo $filename; head -n 100 $filename | tail -n 20; done
+basilisk.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+minotaur.dat
+GGTTGGACCG
+AGTGAACGAA
+GCGATTGATG
+CCCAGTATTG
+GTTTCGGGTC
+CCACCAGGAA
+CAATGTTGGA
+CTTTAGCACG
+ACAGGAATCA
+ATCGTTTCGT
+AATGGTGGCA
+CTTTGGGGTT
+GCAGGCCCGC
+CTGTGCCTTC
+AACGGTCGGC
+AAATAGGACA
+GAGATTTCCT
+GCCTCAAACA
+TCGCAAGACG
+ATTTATCCGG
+unicorn.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[00m$ for filename in *.dat; do  echo $filename; head -n 100 $filename | tail -n 20; done [B[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/creatures[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../molecules/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ nano middle.sh
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           middle.sh                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2dh[?12l[?25h[?25le[?12l[?25h[?25la[?12l[?25h[?25l(B[0;1m[34mhead[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l -[?12l[?25h[?25l(B[0;1m[35m -n[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l 1[?12l[?25h[?25l5[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l o[?12l[?25h[?25lc[?12l[?25h[?25la[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25lp[?12l[?25h[?25ld[?12l[?25h[?25lv[?12l[?25h[?25l [?12l[?25h[?25lb[?12l[?25h[?25l[42m [28d[49m(B[m[K[2;23H[?12l[?25h[?25l [32m|[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l t[?12l[?25h[?25la[?12l[?25h[?25li[?12l[?25h[?25l(B[0;1m[34mtail[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l -[?12l[?25h[?25l(B[0;1m[35m -n[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l 5[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: middle.sh                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;34H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ bah[Ksh middle.sh
+ATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ bash middle.shnano[C[C[C[C[C[C[C[C[C[C
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 4.8                                           middle.sh                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l [?12l[?25h[?25l1[?12l[?25h[?25l5[?12l[?25h[?25l [?12l[?25h[?25lo[?12l[?25h[?25lc[?12l[?25h[?25lt[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25lp[?12l[?25h[?25ld[?12l[?25h[?25lb[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2;21H[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[28d[K[2;17H[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;13H[?12l[?25h[?25l(B[0;1m[33m""[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;14H[?12l[?25h[?25l[?12l[?25h[?25l(B[0;1m[33m$"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;14H[?12l[?25h[?25l(B[0;1m[33m1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;15H[?12l[?25h[?25l(B[0;1m[33m  "[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;17H[?12l[?25h[?25l[2P[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: middle.sh                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;15H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ nano middle.shbash[C[C[C[C[C[C[C[C[C[C octane.pdb 
+ATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ bash middle.sh octane.pdb [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[Kpentane.pdb 
+ATOM      9  H           1       1.324   0.350  -1.332  1.00  0.00
+ATOM     10  H           1       1.271   1.378   0.122  1.00  0.00
+ATOM     11  H           1      -0.074  -0.384   1.288  1.00  0.00
+ATOM     12  H           1      -0.048  -1.362  -0.205  1.00  0.00
+ATOM     13  H           1      -1.183   0.500  -1.412  1.00  0.00
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$  wc -l *.pdb | sort -n
+   9 methane.pdb
+  12 ethane.pdb
+  15 alkanes.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 122 total
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ nano sorted.sh
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           sorted.sh                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d wc(B[0;1m[35m -l[39m(B[m *.pdb [32m|[39m(B[m (B[0;1m[34msort[35m -n[28d[39m(B[m[K[2;23H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l" [32m|[39m(B[m (B[0;1m[34msort[35m -n[2;9H[39m(B[m[?12l[?25h[?25l(B[0;1m[33m""[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[35m -n[2;10H[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l(B[0;1m[33m$"[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[35m -n[2;10H[39m(B[m[?12l[?25h[?25l(B[0;1m[33m@"[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[35m -n[2;11H[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: sorted.sh                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;49H[1K (B[0;7m[ Writing to FIFO... ](B[m[K[28;50H    (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;11H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ bash sorted.sh *.pdb ../creatures/*.dat
+    9 methane.pdb
+   12 ethane.pdb
+   15 alkanes.pdb
+   15 propane.pdb
+   20 cubane.pdb
+   21 pentane.pdb
+   30 octane.pdb
+  163 ../creatures/basilisk.dat
+  163 ../creatures/minotaur.dat
+  163 ../creatures/unicorn.dat
+  611 total
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ nano species.sh
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           species.sh                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[28d[K[1;111H(B[0;7mModified(B[m[2d[32mfor[39m(B[m file [32min[39m(B[m (B[0;1m[31m$@[3d(B[0m[32mdo[4;9H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Unique species in $file:"[5;8H(B[0m[36m[1K # Extract species names[6;9H(B[0;1m[34mcut[35m -d[39m(B[m ,(B[0;1m[35m -f[39m(B[m 2 (B[0;1m[31m$file[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[39m(B[m [32m|[39m(B[m uniq[7d[32mdone[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: species.sh                                                                                          [28;1H(B[m[28;31H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 6 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[7;5H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ cat species.sh
+for file in $@
+do
+	echo "Unique species in $file:"
+	# Extract species names
+	cut -d , -f 2 $file | sort | uniq
+done
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ bash species.sh
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ co [K[Kp species.sh ../anima[K[K[K[K[Kdata/[K[K[K[K[K[K[K[K[K[K[Kbash species.sh ../data/a nimal-counts/animals.txt 
+Unique species in ../data/animal-counts/animals.txt:
+bear
+deer
+fox
+rabbit
+raccoon
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/molecules[00m$ cd ../writing/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ cat haiku.txt 
+The Tao that is seen
+Is not the true Tao, until
+You bring fresh toner.
+
+With searching comes loss
+and the presence of absence:
+"My Thesis" not found.
+
+Yesterday it worked
+Today it is not working
+Software is like that.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep nt [K[Kot haiku.txt 
+Is [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep The haiku.txt 
+[01;31m[KThe[m[K Tao that is seen
+"My [01;31m[KThe[m[Ksis" not found.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep The haiku.txt [C[1@ [1@-[1@w
+[01;31m[KThe[m[K Tao that is seen
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -w The haiku.txt [1P[1@n[1P[1P[1P[1P[C[1@ [1@i[1@t
+[32m[K5[m[K[36m[K:[m[KW[01;31m[Kit[m[Kh searching comes loss
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -n it haiku.txt [1@-[1P[C[1@ [1@-[1@w
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -n -w it haiku.txt [1P[1P
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -nw it haiku.txt [1@i
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -nwi it haiku.txt [1P[1P[1@n[1@o[1@t
+[32m[K2[m[K[36m[K:[m[KIs [01;31m[Knot[m[K the true Tao, until
+[32m[K7[m[K[36m[K:[m[K"My Thesis" [01;31m[Knot[m[K found.
+[32m[K10[m[K[36m[K:[m[KToday it is [01;31m[Knot[m[K working
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -nwi not haiku.txt [1P[1@v
+[32m[K1[m[K[36m[K:[m[KThe Tao that is seen
+[32m[K3[m[K[36m[K:[m[KYou bring fresh toner.
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KWith searching comes loss
+[32m[K6[m[K[36m[K:[m[Kand the presence of absence:
+[32m[K8[m[K[36m[K:[m[K
+[32m[K9[m[K[36m[K:[m[KYesterday it worked
+[32m[K11[m[K[36m[K:[m[KSoftware is like that.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ grep -E "^.o" haiku.txt
+[01;31m[KYo[m[Ku bring fresh toner.
+[01;31m[KTo[m[Kday it is not working
+[01;31m[KSo[m[Kftware is like that.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ cd [K[K[Kba[K[Knano excers[Kcise.sh
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                          excercise.sh                                                    [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[28d[K[1;111H(B[0;7mModified(B[m[2d[32mfor[39m(B[m sis [32min[39m(B[m Jo Meg Beth Amy[3d[32mdo[4;9H(B[0;1m[34mecho[39m(B[m (B[0;1m[31m$sis(B[0m[32m:[5;9H(B[0;1m[34mgrep[39m(B[m -ow (B[0;1m[31m$sis[39m(B[m LittleWomen.txt [32m|[39m(B[m wc(B[0;1m[35m -l[6d(B[0m[32mdone[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: excercise.sh                                                                                        [28;1H(B[m[28;33H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 5 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[6;5H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ bash excercise.sh ./data/li [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[KLi ttleWomen.txt 
+Jo:
+grep: LittleWomen.txt: No such file or directory
+0
+Meg:
+grep: LittleWomen.txt: No such file or directory
+0
+Beth:
+grep: LittleWomen.txt: No such file or directory
+0
+Amy:
+grep: LittleWomen.txt: No such file or directory
+0
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ find .
+.
+./data
+./data/LittleWomen.txt
+./data/one.txt
+./data/two.txt
+./excercise.sh
+./haiku.txt
+./thesis
+./thesis/empty-draft.md
+./tools
+./tools/format
+./tools/old
+./tools/old/oldtool
+./tools/stats
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ fine [K[Kd . -y[Ktyoe[K[Kpe d
+.
+./data
+./thesis
+./tools
+./tools/old
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ find . -name *.txt
+./haiku.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ wc -l $(find . -name "*.txt")
+  21022 ./data/LittleWomen.txt
+     70 ./data/one.txt
+    300 ./data/two.txt
+     11 ./haiku.txt
+  21403 total
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ exit
+exit
+There are stopped jobs.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data/writing[00m$ cd ..
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module/shell-lesson-data[00m$ cd ..
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls
+[0m[01;32mmy_unix_session[0m  [34;42mshell-lesson-data[0m  [34;42mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ vim n[Kmy_unix_session 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H"my_unix_session" [noeol] 423L, 62976C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HScript started on 2021-06-21 17:34:06+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[34m^[[m]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^G^[[m[01;32msaif@DESKTOP-D7JD7DM[34m^[[m[00m:[34m^[[m[01;34m/mm[3;1Hnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^[[m[00m$ ls[34m^M
+^[[m[0m[34m^[[m[01;32mmy_unix_session[34m^[[m[0m[34m^M
+^[[m]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^G^[[m[01;32msaif@DESKTOP-D7JD7DM[34m^[[m[00m:[34m^[[m[01;34m/mm[6;1Hnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^[[m[00m$ pwd[34m^M[m
+/mnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^M
+^[[m]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^G^[[m[01;32msaif@DESKTOP-D7JD7DM[34m^[[m[00m:[34m^[[m[01;34m/mm[9;1Hnt/c/Users/Saif/Documents/Tiger/MLE Module[34m^[[m[00m$ ls [34m^H^[[m[K[34m^H^[[m[K[34m^H^[[m[Kman ls[34m^M
+^[[m[?1049h[34m^[[m[22;0;0t[34m^[[m[?1h[34m^[[m=[34m^M[mLS(1)[47CUser Commands[24C  [11;1H [21CLS(1)[34m^[[m[m[34m^M
+^[[m[m[34m^M
+^[[m[1mNAME[34m^[[m[0m[34m^[[m[m[34m^M[m[14;8Hls - list directory contents[34m^[[m[m[34m^M
+^[[m[m[34m^M
+^[[m[1mSYNOPSIS[34m^[[m[0m[34m^[[m[m[34m^M[17;8H^[[m[1mls[34m^[[m[0m [[34m^[[m[4mOPTION[34m^[[m[24m]... [[34m^[[m[4mFILE[34m^[[m[24m]...[34m^[[m[m[34m^M
+^[[m[m[34m^M
+^[[m[1mDESCRIPTION[34m^[[m[0m[34m^[[m[m[34m^M[m[20;8HList  information  about the FILEs (the current directory by default).  Sort entries alphabetically if none of[34m^[[m[[[21;1Hm[34m^M[22;8H^[[m[1m-cftuvSUX[34m^[[m[0m nor [34m^[[m[1m--sort[34m^[[m[0m is specified.[34m^[[m[m[34m^M
+^[[m[m[34m^M[m[24;8HMandatory arguments to long options are mandatory for short options too.[34m^[[m[m[34m^M
+^[[m[m[34m^M[26;8H^[[m[1m-a[34m^[[m[0m, [34m^[[m[1m--all[34m^[[m[0m[34m^[[m[m[34m^M[m[27;15Hdo not ignore entries starting with .[34m^[[m[m[34m^M
+^[[m[m[34m^M[29;8H^[[m[1m-A[34m^[[m[0m, [34m^[[m[1m--almost-all[34m^[[m[0m[34m^[[m[m[34m^M[m[30;103H1,1[11

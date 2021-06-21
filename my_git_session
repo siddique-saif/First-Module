@@ -1,0 +1,412 @@
+Script started on 2021-06-21 21:02:07+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ sudo apt install git
+[sudo] password for saif: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.25.1-1ubuntu3.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git config --list --show-origin
+[?1h=[K[?1l>]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git config --global user.name "John Doe"[K[K[K[K[K[K[K[K[Ksiddique-saif"
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git config --global user.name "John Doe"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kemail "saif.siddique@g[Ktger[K[K[Kigeran alytics.com"
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git config --global init.defaultBranch main
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git config -- list[K[K[K[K[K[K[K-l
+[?1h=user.name=siddique-saif[m
+user.email=saif.siddique@tigeranalytics.com[m
+init.defaultbranch=main[m
+[K[?1l>]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ got[K[Kit inn[Kit
+Initialized empty Git repository in /mnt/c/Users/Saif/Documents/Tiger/MLE Module/.git/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git add *
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git add LICENC[KSE
+fatal: pathspec 'LICENSE' did not match any files
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git commit -m 'MLE MMod[K[K[Kodule'
+[master (root-commit) 9664889] MLE Module
+ 209 files changed, 33680 insertions(+)
+ create mode 100644 my_unix_session
+ create mode 100644 shell-lesson-data/.bash_profile
+ create mode 100644 shell-lesson-data/creatures/basilisk.dat
+ create mode 100644 shell-lesson-data/creatures/minotaur.dat
+ create mode 100644 shell-lesson-data/creatures/unicorn.dat
+ create mode 100644 shell-lesson-data/data/amino-acids.txt
+ create mode 100644 shell-lesson-data/data/animal-counts/animals.txt
+ create mode 100644 shell-lesson-data/data/animals.txt
+ create mode 100644 shell-lesson-data/data/elements/Ac.xml
+ create mode 100644 shell-lesson-data/data/elements/Ag.xml
+ create mode 100644 shell-lesson-data/data/elements/Al.xml
+ create mode 100644 shell-lesson-data/data/elements/Am.xml
+ create mode 100644 shell-lesson-data/data/elements/Ar.xml
+ create mode 100644 shell-lesson-data/data/elements/As.xml
+ create mode 100644 shell-lesson-data/data/elements/At.xml
+ create mode 100644 shell-lesson-data/data/elements/Au.xml
+ create mode 100644 shell-lesson-data/data/elements/B.xml
+ create mode 100644 shell-lesson-data/data/elements/Ba.xml
+ create mode 100644 shell-lesson-data/data/elements/Be.xml
+ create mode 100644 shell-lesson-data/data/elements/Bi.xml
+ create mode 100644 shell-lesson-data/data/elements/Bk.xml
+ create mode 100644 shell-lesson-data/data/elements/Br.xml
+ create mode 100644 shell-lesson-data/data/elements/C.xml
+ create mode 100644 shell-lesson-data/data/elements/Ca.xml
+ create mode 100644 shell-lesson-data/data/elements/Cd.xml
+ create mode 100644 shell-lesson-data/data/elements/Ce.xml
+ create mode 100644 shell-lesson-data/data/elements/Cf.xml
+ create mode 100644 shell-lesson-data/data/elements/Cl.xml
+ create mode 100644 shell-lesson-data/data/elements/Cm.xml
+ create mode 100644 shell-lesson-data/data/elements/Co.xml
+ create mode 100644 shell-lesson-data/data/elements/Cr.xml
+ create mode 100644 shell-lesson-data/data/elements/Cs.xml
+ create mode 100644 shell-lesson-data/data/elements/Cu.xml
+ create mode 100644 shell-lesson-data/data/elements/Dy.xml
+ create mode 100644 shell-lesson-data/data/elements/Er.xml
+ create mode 100644 shell-lesson-data/data/elements/Es.xml
+ create mode 100644 shell-lesson-data/data/elements/Eu.xml
+ create mode 100644 shell-lesson-data/data/elements/F.xml
+ create mode 100644 shell-lesson-data/data/elements/Fe.xml
+ create mode 100644 shell-lesson-data/data/elements/Fm.xml
+ create mode 100644 shell-lesson-data/data/elements/Fr.xml
+ create mode 100644 shell-lesson-data/data/elements/Ga.xml
+ create mode 100644 shell-lesson-data/data/elements/Gd.xml
+ create mode 100644 shell-lesson-data/data/elements/Ge.xml
+ create mode 100644 shell-lesson-data/data/elements/H.xml
+ create mode 100644 shell-lesson-data/data/elements/He.xml
+ create mode 100644 shell-lesson-data/data/elements/Hf.xml
+ create mode 100644 shell-lesson-data/data/elements/Hg.xml
+ create mode 100644 shell-lesson-data/data/elements/Ho.xml
+ create mode 100644 shell-lesson-data/data/elements/I.xml
+ create mode 100644 shell-lesson-data/data/elements/In.xml
+ create mode 100644 shell-lesson-data/data/elements/Ir.xml
+ create mode 100644 shell-lesson-data/data/elements/K.xml
+ create mode 100644 shell-lesson-data/data/elements/Kr.xml
+ create mode 100644 shell-lesson-data/data/elements/La.xml
+ create mode 100644 shell-lesson-data/data/elements/Li.xml
+ create mode 100644 shell-lesson-data/data/elements/Lr.xml
+ create mode 100644 shell-lesson-data/data/elements/Lu.xml
+ create mode 100644 shell-lesson-data/data/elements/Md.xml
+ create mode 100644 shell-lesson-data/data/elements/Mg.xml
+ create mode 100644 shell-lesson-data/data/elements/Mn.xml
+ create mode 100644 shell-lesson-data/data/elements/Mo.xml
+ create mode 100644 shell-lesson-data/data/elements/N.xml
+ create mode 100644 shell-lesson-data/data/elements/Na.xml
+ create mode 100644 shell-lesson-data/data/elements/Nb.xml
+ create mode 100644 shell-lesson-data/data/elements/Nd.xml
+ create mode 100644 shell-lesson-data/data/elements/Ne.xml
+ create mode 100644 shell-lesson-data/data/elements/Ni.xml
+ create mode 100644 shell-lesson-data/data/elements/No.xml
+ create mode 100644 shell-lesson-data/data/elements/Np.xml
+ create mode 100644 shell-lesson-data/data/elements/O.xml
+ create mode 100644 shell-lesson-data/data/elements/Os.xml
+ create mode 100644 shell-lesson-data/data/elements/P.xml
+ create mode 100644 shell-lesson-data/data/elements/Pa.xml
+ create mode 100644 shell-lesson-data/data/elements/Pb.xml
+ create mode 100644 shell-lesson-data/data/elements/Pd.xml
+ create mode 100644 shell-lesson-data/data/elements/Pm.xml
+ create mode 100644 shell-lesson-data/data/elements/Po.xml
+ create mode 100644 shell-lesson-data/data/elements/Pr.xml
+ create mode 100644 shell-lesson-data/data/elements/Pt.xml
+ create mode 100644 shell-lesson-data/data/elements/Pu.xml
+ create mode 100644 shell-lesson-data/data/elements/Ra.xml
+ create mode 100644 shell-lesson-data/data/elements/Rb.xml
+ create mode 100644 shell-lesson-data/data/elements/Re.xml
+ create mode 100644 shell-lesson-data/data/elements/Rh.xml
+ create mode 100644 shell-lesson-data/data/elements/Rn.xml
+ create mode 100644 shell-lesson-data/data/elements/Ru.xml
+ create mode 100644 shell-lesson-data/data/elements/S.xml
+ create mode 100644 shell-lesson-data/data/elements/Sb.xml
+ create mode 100644 shell-lesson-data/data/elements/Sc.xml
+ create mode 100644 shell-lesson-data/data/elements/Se.xml
+ create mode 100644 shell-lesson-data/data/elements/Si.xml
+ create mode 100644 shell-lesson-data/data/elements/Sm.xml
+ create mode 100644 shell-lesson-data/data/elements/Sn.xml
+ create mode 100644 shell-lesson-data/data/elements/Sr.xml
+ create mode 100644 shell-lesson-data/data/elements/Ta.xml
+ create mode 100644 shell-lesson-data/data/elements/Tb.xml
+ create mode 100644 shell-lesson-data/data/elements/Tc.xml
+ create mode 100644 shell-lesson-data/data/elements/Te.xml
+ create mode 100644 shell-lesson-data/data/elements/Th.xml
+ create mode 100644 shell-lesson-data/data/elements/Ti.xml
+ create mode 100644 shell-lesson-data/data/elements/Tl.xml
+ create mode 100644 shell-lesson-data/data/elements/Tm.xml
+ create mode 100644 shell-lesson-data/data/elements/U.xml
+ create mode 100644 shell-lesson-data/data/elements/V.xml
+ create mode 100644 shell-lesson-data/data/elements/W.xml
+ create mode 100644 shell-lesson-data/data/elements/Xe.xml
+ create mode 100644 shell-lesson-data/data/elements/Y.xml
+ create mode 100644 shell-lesson-data/data/elements/Yb.xml
+ create mode 100644 shell-lesson-data/data/elements/Zn.xml
+ create mode 100644 shell-lesson-data/data/elements/Zr.xml
+ create mode 100644 shell-lesson-data/data/morse.txt
+ create mode 100644 shell-lesson-data/data/pdb/aldrin.pdb
+ create mode 100644 shell-lesson-data/data/pdb/ammonia.pdb
+ create mode 100644 shell-lesson-data/data/pdb/ascorbic-acid.pdb
+ create mode 100644 shell-lesson-data/data/pdb/benzaldehyde.pdb
+ create mode 100644 shell-lesson-data/data/pdb/camphene.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cholesterol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cinnamaldehyde.pdb
+ create mode 100644 shell-lesson-data/data/pdb/citronellal.pdb
+ create mode 100644 shell-lesson-data/data/pdb/codeine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cubane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cyclobutane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cyclohexanol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/cyclopropane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/ethane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/ethanol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/ethylcyclohexane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/glycol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/heme.pdb
+ create mode 100644 shell-lesson-data/data/pdb/lactic-acid.pdb
+ create mode 100644 shell-lesson-data/data/pdb/lactose.pdb
+ create mode 100644 shell-lesson-data/data/pdb/lanoxin.pdb
+ create mode 100644 shell-lesson-data/data/pdb/lsd.pdb
+ create mode 100644 shell-lesson-data/data/pdb/maltose.pdb
+ create mode 100644 shell-lesson-data/data/pdb/menthol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/methane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/methanol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/mint.pdb
+ create mode 100644 shell-lesson-data/data/pdb/morphine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/mustard.pdb
+ create mode 100644 shell-lesson-data/data/pdb/nerol.pdb
+ create mode 100644 shell-lesson-data/data/pdb/norethindrone.pdb
+ create mode 100644 shell-lesson-data/data/pdb/octane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/pentane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/piperine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/propane.pdb
+ create mode 100644 shell-lesson-data/data/pdb/pyridoxal.pdb
+ create mode 100644 shell-lesson-data/data/pdb/quinine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/strychnine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/styrene.pdb
+ create mode 100644 shell-lesson-data/data/pdb/sucrose.pdb
+ create mode 100644 shell-lesson-data/data/pdb/testosterone.pdb
+ create mode 100644 shell-lesson-data/data/pdb/thiamine.pdb
+ create mode 100644 shell-lesson-data/data/pdb/tnt.pdb
+ create mode 100644 shell-lesson-data/data/pdb/tuberin.pdb
+ create mode 100644 shell-lesson-data/data/pdb/tyrian-purple.pdb
+ create mode 100644 shell-lesson-data/data/pdb/vanillin.pdb
+ create mode 100644 shell-lesson-data/data/pdb/vinyl-chloride.pdb
+ create mode 100644 shell-lesson-data/data/pdb/vitamin-a.pdb
+ create mode 100644 shell-lesson-data/data/planets.txt
+ create mode 100644 shell-lesson-data/data/salmon.txt
+ create mode 100644 shell-lesson-data/data/sunspot.txt
+ create mode 100644 shell-lesson-data/molecules/alkanes.pdb
+ create mode 100644 shell-lesson-data/molecules/cubane.pdb
+ create mode 100644 shell-lesson-data/molecules/ethane.pdb
+ create mode 100644 shell-lesson-data/molecules/methane.pdb
+ create mode 100644 shell-lesson-data/molecules/middle.sh
+ create mode 100644 shell-lesson-data/molecules/octane.pdb
+ create mode 100644 shell-lesson-data/molecules/pentane.pdb
+ create mode 100644 shell-lesson-data/molecules/propane.pdb
+ create mode 100644 shell-lesson-data/molecules/sorted.sh
+ create mode 100644 shell-lesson-data/molecules/species.sh
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01729A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01729B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01736A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01751A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01751B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01812A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01843A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01843B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01971Z.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01978A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE01978B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02018B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02040A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02040B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02040Z.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02043A.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/NENE02043B.txt
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/goodiff.sh
+ create mode 100644 shell-lesson-data/north-pacific-gyre/2012-07-03/goostats.sh
+ create mode 100644 shell-lesson-data/notes.txt
+ create mode 100644 shell-lesson-data/pizza.cfg
+ create mode 100644 shell-lesson-data/solar.pdf
+ create mode 100644 shell-lesson-data/writing/data/LittleWomen.txt
+ create mode 100644 shell-lesson-data/writing/data/one.txt
+ create mode 100644 shell-lesson-data/writing/data/two.txt
+ create mode 100644 shell-lesson-data/writing/excercise.sh
+ create mode 100644 shell-lesson-data/writing/haiku.txt
+ create mode 100644 shell-lesson-data/writing/thesis/empty-draft.md
+ create mode 100644 shell-lesson-data/writing/tools/format
+ create mode 100644 shell-lesson-data/writing/tools/old/oldtool
+ create mode 100644 shell-lesson-data/writing/tools/stats
+ create mode 100644 temp/animals.txt
+ create mode 100644 temp/draft.txt
+ create mode 100644 temp/final.txt
+ create mode 100644 temp/hello.txt
+ create mode 100644 temp/length.txt
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status
+On branch master
+nothing to commit, working tree clean
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ echo 'First G[K[K[K[K[K[K[KIntro to GIT[K[Kit, Conda and Bash' > README
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git add README A[K
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git commit
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 8 lines ](B[m[H(B[0;7m  GNU nano 4.8                /mnt/c/Users/Saif/Documents/Tiger/MLE Module/.git/COMMIT_EDITMSG                          [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d# Changes to be committed:[8d#       new file:   README[9d#[2d[39m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2dT[?12l[?25h[?25lh[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25li[?12l[?25h[?25lr[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[K[?12l[?25h[?25lI[?12l[?25h[?25ln[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25li[?12l[?25h[?25la[28d[K[2;7H[?12l[?25h[?25ll[?12l[?25h[?25l [?12l[?25h[?25lC[?12l[?25h[?25lo[?12l[?25h[?25lm[?12l[?25h[?25lm[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25lU[?12l[?25h[?25lp[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25la[?12l[?25h[?25ld[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: /mnt/c/Users/Saif/Documents/Tiger/MLE Module/.git/COMMIT_EDITMSG                                    [28;1H(B[m[28;85H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 8 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[2;15H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[K[master 495ecdb] Initial Upload
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ echo "This is temporary" > temp
+bash: temp: Is a directory
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ echo "This is temporary" > temp[K[K[K[KTEMP
+bash: TEMP: Is a directory
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ echo "This is temporary" > TEMP.md
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cat Temp.m[K[K[K[K[KEMP.md 
+This is temporary
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTEMP.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git add TEMP.md
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git reset HEAD Te[KEMP.md
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTEMP.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ gg[Kit checkout -- TEMP.md
+error: pathspec 'TEMP.md' did not match any file(s) known to git
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git add *
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git res[K[K[Kstatus
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   TEMP.md[m
+
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ gi [Kt restore -st[K[K-status [K[K[K[Kged TE[KEMP.md
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git stta[K[Katus
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTEMP.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git restore TEMP.md
+error: pathspec 'TEMP.md' did not match any file(s) known to git
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ rm Te[KEMP.md 
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status 
+On branch master
+nothing to commit, working tree clean
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cat ~/.ssh/id_rsa.pub
+cat: /home/saif/.ssh/id_rsa.pub: No such file or directory
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -la
+total 64
+drwxrwxrwx 1 saif saif   512 Jun 21 21:19 [0m[1;34m.[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 17:32 [1;34m..[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 21:19 [1;34m.git[0m
+-rwxrwxrwx 1 saif saif    29 Jun 21 21:09 [01;32mREADME[0m
+-rwxrwxrwx 1 saif saif 65536 Jun 21 18:48 [01;32mmy_unix_session[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 18:31 [1;34mshell-lesson-data[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 18:24 [1;34mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cd ~/.ssh
+bash: cd: /home/saif/.ssh: No such file or directory
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ mkdr [K[Kir ~/.ssh
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ cd ~/.ssh
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ ls
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ ssh [K-keygen -o
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/saif/.ssh/id_rsa): id_dsa.pub
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in id_dsa.pub
+Your public key has been saved in id_dsa.pub.pub
+The key fingerprint is:
+SHA256:QJsIRfaFLXTfByTSrcDO2d6Fq1hQ5BmzBQEcyE0U+Lw saif@DESKTOP-D7JD7DM
+The key's randomart image is:
++---[RSA 3072]----+
+|  .o+oo@X*B=+    |
+|   o +*=*+oO..   |
+|    . =* ==....  |
+|       .B o ...  |
+|        S+ . o   |
+|        E o o    |
+|         o .     |
+|        . .      |
+|                 |
++----[SHA256]-----+
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ ls
+id_dsa.pub  id_dsa.pub.pub
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ rm *
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ ssh -keygen -o[1P
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/saif/.ssh/id_rsa): id  
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Passphrases do not match.  Try again.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/saif/.ssh/id_rsa
+Your public key has been saved in /home/saif/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:2SGDm2iOqgVi7FayqeXiRntxb8Agx+UH1WzLita/2Ls saif@DESKTOP-D7JD7DM
+The key's randomart image is:
++---[RSA 3072]----+
+|      ..o        |
+|     o . +       |
+|  . o o = o      |
+|.. + o + B .     |
+|o+o.= * S .      |
+|+o== * o         |
+|.== = o .        |
+|+B .   oo.       |
+|Boo   .. E+      |
++----[SHA256]-----+
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ ls
+id_rsa  id_rsa.pub
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ cat ~[Kid_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD4oTaAb/pH7zAXEsjV04hskvcmhCYG5HhHGe4yPlr/jGykoU9E6EWeBrpO7S3sfafWxX8WEu3cVmlW7E8Q3mdX2NbCix/Ts5yUy+mLoqUR6PcNxX/8BR7eKYHnQ3fz26b87hx7k6oN0/5I+JT44fRwHEXvxcJtRESQwn4xZMLd2WcqZMbCMRC5SAH2BY/sUe8xnEVvsmxOD5oIawlPkMu7tgAr72rK3Uk+/jaDKDw0SoLIXzkR03OyTZRKVpqPlL7i0BjQXKGaJkqzRHXpGPVFLg5N/bg37Thq1X/IZP/aBa7HBARInOU0tTfwcy01n5S2RrRC1CftfjVDDhjSBKBr73j0aNWaxqm7RuuLYiHXRSQ22NGkokEjMlv7kieYl0b9MCmth7fHzIseyLwOqPx8aYjIgcAM6Y+fi94b9odJmc9T0apb0CjhvDjlOQg3sYn87h7Qra78RlnLuzR3dEKh7UZOzTVW1JLGO51l2ZuM+3idC7CEOYAyyws6YEt0qcc= saif@DESKTOP-D7JD7DM
+]0;saif@DESKTOP-D7JD7DM: ~/.ssh[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m~/.ssh[00m$ cd /mnt/c/Users/Saif/Documents/Tiger/MLE\ Module/
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls
+[0m[01;32mREADME[0m  [01;32mmy_unix_session[0m  [1;34mshell-lesson-data[0m  [1;34mtemp[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ ls -;[Klatr
+total 64
+drwxrwxrwx 1 saif saif   512 Jun 21 17:32 [0m[1;34m..[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 18:24 [1;34mtemp[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 18:31 [1;34mshell-lesson-data[0m
+-rwxrwxrwx 1 saif saif 65536 Jun 21 18:48 [01;32mmy_unix_session[0m
+-rwxrwxrwx 1 saif saif    29 Jun 21 21:09 [01;32mREADME[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 21:19 [1;34m.[0m
+drwxrwxrwx 1 saif saif   512 Jun 21 21:19 [1;34m.git[0m
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git restore temp
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git s[K[K[K[K[Kn[Kvim .gitin[Kgnore [K
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H".gitignore" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H0,0-1[9CAll[1;1H[?25h[?25l[30;93Ha[1;1H[30;93H [1;1H[30;1H[1m-- INSERT --[m[30;14H[K[30;103H0,1[11CAll[1;1H[?25h[?25lt[30;103H1,2[1;2H[?25h[?25l[1;1H[K[30;105H1[1;1H[?25h[?25l.[30;105H2[1;2H[?25h[?25l/[30;105H3[1;3H[?25h[?25lt[30;105H4[1;4H[?25h[?25le[30;105H5[1;5H[?25h[?25lm[30;105H6[1;6H[?25h[?25lp[30;105H7[1;7H[?25h[30;1H[K[1;6H[?25l[30;93H^[[1;6H[30;93H  [1;7H[30;103H1,6[11CAll[1;6H[?25h[?25l[30;93H:[1;6H[30;93H[K[30;1H:[?2004h[?25hwq[?25l[?2004l".gitignore" [New] 1L, 7C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ gt[Kit add .
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git remote add origin https://github.com/siddique-sai f/First-Project.git
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ git push origin master
+Username for 'https://github.com': siddique-saif
+Password for 'https://siddique-saif@github.com': 
+Enumerating objects: 220, done.
+Counting objects:   0% (1/220)Counting objects:   1% (3/220)Counting objects:   2% (5/220)Counting objects:   3% (7/220)Counting objects:   4% (9/220)Counting objects:   5% (11/220)Counting objects:   6% (14/220)Counting objects:   7% (16/220)Counting objects:   8% (18/220)Counting objects:   9% (20/220)Counting objects:  10% (22/220)Counting objects:  11% (25/220)Counting objects:  12% (27/220)Counting objects:  13% (29/220)Counting objects:  14% (31/220)Counting objects:  15% (33/220)Counting objects:  16% (36/220)Counting objects:  17% (38/220)Counting objects:  18% (40/220)Counting objects:  19% (42/220)Counting objects:  20% (44/220)Counting objects:  21% (47/220)Counting objects:  22% (49/220)Counting objects:  23% (51/220)Counting objects:  24% (53/220)Counting objects:  25% (55/220)Counting objects:  26% (58/220)Counting objects:  27% (60/220)Counting objects:  28% (62/220)Counting objects:  29% (64/220)Counting objects:  30% (66/220)Counting objects:  31% (69/220)Counting objects:  32% (71/220)Counting objects:  33% (73/220)Counting objects:  34% (75/220)Counting objects:  35% (77/220)Counting objects:  36% (80/220)Counting objects:  37% (82/220)Counting objects:  38% (84/220)Counting objects:  39% (86/220)Counting objects:  40% (88/220)Counting objects:  41% (91/220)Counting objects:  42% (93/220)Counting objects:  43% (95/220)Counting objects:  44% (97/220)Counting objects:  45% (99/220)Counting objects:  46% (102/220)Counting objects:  47% (104/220)Counting objects:  48% (106/220)Counting objects:  49% (108/220)Counting objects:  50% (110/220)Counting objects:  51% (113/220)Counting objects:  52% (115/220)Counting objects:  53% (117/220)Counting objects:  54% (119/220)Counting objects:  55% (121/220)Counting objects:  56% (124/220)Counting objects:  57% (126/220)Counting objects:  58% (128/220)Counting objects:  59% (130/220)Counting objects:  60% (132/220)Counting objects:  61% (135/220)Counting objects:  62% (137/220)Counting objects:  63% (139/220)Counting objects:  64% (141/220)Counting objects:  65% (143/220)Counting objects:  66% (146/220)Counting objects:  67% (148/220)Counting objects:  68% (150/220)Counting objects:  69% (152/220)Counting objects:  70% (154/220)Counting objects:  71% (157/220)Counting objects:  72% (159/220)Counting objects:  73% (161/220)Counting objects:  74% (163/220)Counting objects:  75% (165/220)Counting objects:  76% (168/220)Counting objects:  77% (170/220)Counting objects:  78% (172/220)Counting objects:  79% (174/220)Counting objects:  80% (176/220)Counting objects:  81% (179/220)Counting objects:  82% (181/220)Counting objects:  83% (183/220)Counting objects:  84% (185/220)Counting objects:  85% (187/220)Counting objects:  86% (190/220)Counting objects:  87% (192/220)Counting objects:  88% (194/220)Counting objects:  89% (196/220)Counting objects:  90% (198/220)Counting objects:  91% (201/220)Counting objects:  92% (203/220)Counting objects:  93% (205/220)Counting objects:  94% (207/220)Counting objects:  95% (209/220)Counting objects:  96% (212/220)Counting objects:  97% (214/220)Counting objects:  98% (216/220)Counting objects:  99% (218/220)Counting objects: 100% (220/220)Counting objects: 100% (220/220), done.
+Delta compression using up to 4 threads
+Compressing objects:   0% (1/206)Compressing objects:   1% (3/206)Compressing objects:   2% (5/206)Compressing objects:   3% (7/206)Compressing objects:   4% (9/206)Compressing objects:   5% (11/206)Compressing objects:   6% (13/206)Compressing objects:   7% (15/206)Compressing objects:   8% (17/206)Compressing objects:   9% (19/206)Compressing objects:  10% (21/206)Compressing objects:  11% (23/206)Compressing objects:  12% (25/206)Compressing objects:  13% (27/206)Compressing objects:  14% (29/206)Compressing objects:  15% (31/206)Compressing objects:  16% (33/206)Compressing objects:  17% (36/206)Compressing objects:  18% (38/206)Compressing objects:  19% (40/206)Compressing objects:  20% (42/206)Compressing objects:  21% (44/206)Compressing objects:  22% (46/206)Compressing objects:  23% (48/206)Compressing objects:  24% (50/206)Compressing objects:  25% (52/206)Compressing objects:  26% (54/206)Compressing objects:  27% (56/206)Compressing objects:  28% (58/206)Compressing objects:  29% (60/206)Compressing objects:  30% (62/206)Compressing objects:  31% (64/206)Compressing objects:  32% (66/206)Compressing objects:  33% (68/206)Compressing objects:  34% (71/206)Compressing objects:  35% (73/206)Compressing objects:  36% (75/206)Compressing objects:  37% (77/206)Compressing objects:  38% (79/206)Compressing objects:  39% (81/206)Compressing objects:  40% (83/206)Compressing objects:  41% (85/206)Compressing objects:  42% (87/206)Compressing objects:  43% (89/206)Compressing objects:  44% (91/206)Compressing objects:  45% (93/206)Compressing objects:  46% (95/206)Compressing objects:  47% (97/206)Compressing objects:  48% (99/206)Compressing objects:  49% (101/206)Compressing objects:  50% (103/206)Compressing objects:  51% (106/206)Compressing objects:  52% (108/206)Compressing objects:  53% (110/206)Compressing objects:  54% (112/206)Compressing objects:  55% (114/206)Compressing objects:  56% (116/206)Compressing objects:  57% (118/206)Compressing objects:  58% (120/206)Compressing objects:  59% (122/206)Compressing objects:  60% (124/206)Compressing objects:  61% (126/206)Compressing objects:  62% (128/206)Compressing objects:  63% (130/206)Compressing objects:  64% (132/206)Compressing objects:  65% (134/206)Compressing objects:  66% (136/206)Compressing objects:  67% (139/206)Compressing objects:  68% (141/206)Compressing objects:  69% (143/206)Compressing objects:  70% (145/206)Compressing objects:  71% (147/206)Compressing objects:  72% (149/206)Compressing objects:  73% (151/206)Compressing objects:  74% (153/206)Compressing objects:  75% (155/206)Compressing objects:  76% (157/206)Compressing objects:  77% (159/206)Compressing objects:  78% (161/206)Compressing objects:  79% (163/206)Compressing objects:  80% (165/206)Compressing objects:  81% (167/206)Compressing objects:  82% (169/206)Compressing objects:  83% (171/206)Compressing objects:  84% (174/206)Compressing objects:  85% (176/206)Compressing objects:  86% (178/206)Compressing objects:  87% (180/206)Compressing objects:  88% (182/206)Compressing objects:  89% (184/206)Compressing objects:  90% (186/206)Compressing objects:  91% (188/206)Compressing objects:  92% (190/206)Compressing objects:  93% (192/206)Compressing objects:  94% (194/206)Compressing objects:  95% (196/206)Compressing objects:  96% (198/206)Compressing objects:  97% (200/206)Compressing objects:  98% (202/206)Compressing objects:  99% (204/206)Compressing objects: 100% (206/206)Compressing objects: 100% (206/206), done.
+Writing objects:   0% (1/220)Writing objects:   1% (3/220)Writing objects:   2% (5/220)Writing objects:   3% (7/220)Writing objects:   4% (10/220)Writing objects:   5% (11/220)Writing objects:   6% (14/220)Writing objects:   7% (16/220)Writing objects:   8% (18/220)Writing objects:  10% (22/220)Writing objects:  11% (25/220)Writing objects:  12% (27/220)Writing objects:  13% (29/220)Writing objects:  15% (34/220)Writing objects:  16% (36/220)Writing objects:  17% (38/220)Writing objects:  18% (40/220)Writing objects:  19% (42/220)Writing objects:  20% (44/220)Writing objects:  21% (47/220)Writing objects:  22% (49/220)Writing objects:  23% (51/220)Writing objects:  24% (53/220)Writing objects:  25% (55/220)Writing objects:  26% (58/220)Writing objects:  27% (60/220)Writing objects:  28% (62/220)Writing objects:  29% (64/220)Writing objects:  30% (66/220)Writing objects:  31% (69/220)Writing objects:  32% (71/220)Writing objects:  33% (73/220)Writing objects:  34% (75/220)Writing objects:  35% (77/220)Writing objects:  36% (80/220)Writing objects:  37% (82/220)Writing objects:  38% (84/220)Writing objects:  39% (86/220)Writing objects:  40% (88/220)Writing objects:  41% (91/220)Writing objects:  42% (93/220)Writing objects:  43% (95/220)Writing objects:  44% (97/220)Writing objects:  45% (99/220)Writing objects:  46% (102/220)Writing objects:  47% (104/220)Writing objects:  48% (106/220)Writing objects:  49% (108/220)Writing objects:  50% (110/220)Writing objects:  51% (113/220)Writing objects:  52% (115/220)Writing objects:  53% (117/220)Writing objects:  54% (119/220)Writing objects:  55% (121/220)Writing objects:  56% (124/220)Writing objects:  57% (127/220)Writing objects:  58% (128/220)Writing objects:  59% (130/220)Writing objects:  60% (132/220)Writing objects:  61% (135/220)Writing objects:  62% (137/220)Writing objects:  63% (140/220)Writing objects:  64% (141/220)Writing objects:  65% (143/220)Writing objects:  66% (146/220)Writing objects:  67% (148/220)Writing objects:  68% (150/220)Writing objects:  69% (152/220)Writing objects:  70% (154/220)Writing objects:  71% (157/220)Writing objects:  72% (159/220)Writing objects:  73% (161/220)Writing objects:  74% (163/220)Writing objects:  75% (165/220)Writing objects:  76% (168/220)Writing objects:  77% (170/220)Writing objects:  78% (172/220)Writing objects:  79% (174/220)Writing objects:  80% (176/220)Writing objects:  81% (179/220)Writing objects:  82% (181/220)Writing objects:  83% (183/220)Writing objects:  84% (185/220)Writing objects:  85% (187/220)Writing objects:  86% (190/220)Writing objects:  87% (192/220)Writing objects:  88% (194/220)Writing objects:  89% (196/220)Writing objects:  90% (198/220)Writing objects:  91% (201/220)Writing objects:  92% (203/220)Writing objects:  93% (206/220), 128.00 KiB | 225.00 KiB/sWriting objects:  94% (207/220), 128.00 KiB | 225.00 KiB/sWriting objects:  95% (209/220), 128.00 KiB | 225.00 KiB/sWriting objects:  96% (212/220), 128.00 KiB | 225.00 KiB/sWriting objects:  97% (214/220), 128.00 KiB | 225.00 KiB/sWriting objects:  98% (216/220), 128.00 KiB | 225.00 KiB/sWriting objects:  99% (218/220), 128.00 KiB | 225.00 KiB/sWriting objects: 100% (220/220), 128.00 KiB | 225.00 KiB/sWriting objects: 100% (220/220), 531.74 KiB | 827.00 KiB/s, done.
+Total 220 (delta 105), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/105)[Kremote: Resolving deltas:   1% (2/105)[Kremote: Resolving deltas:   2% (3/105)[Kremote: Resolving deltas:   3% (4/105)[Kremote: Resolving deltas:   4% (5/105)[Kremote: Resolving deltas:   5% (6/105)[Kremote: Resolving deltas:   6% (7/105)[Kremote: Resolving deltas:   7% (8/105)[Kremote: Resolving deltas:   8% (9/105)[Kremote: Resolving deltas:   9% (10/105)[Kremote: Resolving deltas:  10% (11/105)[Kremote: Resolving deltas:  11% (12/105)[Kremote: Resolving deltas:  12% (13/105)[Kremote: Resolving deltas:  13% (14/105)[Kremote: Resolving deltas:  14% (15/105)[Kremote: Resolving deltas:  15% (16/105)[Kremote: Resolving deltas:  16% (17/105)[Kremote: Resolving deltas:  17% (18/105)[Kremote: Resolving deltas:  18% (19/105)[Kremote: Resolving deltas:  19% (20/105)[Kremote: Resolving deltas:  20% (21/105)[Kremote: Resolving deltas:  21% (23/105)[Kremote: Resolving deltas:  22% (24/105)[Kremote: Resolving deltas:  23% (25/105)[Kremote: Resolving deltas:  24% (26/105)[Kremote: Resolving deltas:  25% (27/105)[Kremote: Resolving deltas:  26% (28/105)[Kremote: Resolving deltas:  27% (29/105)[Kremote: Resolving deltas:  28% (30/105)[Kremote: Resolving deltas:  29% (31/105)[Kremote: Resolving deltas:  30% (32/105)[Kremote: Resolving deltas:  31% (33/105)[Kremote: Resolving deltas:  32% (34/105)[Kremote: Resolving deltas:  33% (35/105)[Kremote: Resolving deltas:  34% (36/105)[Kremote: Resolving deltas:  35% (37/105)[Kremote: Resolving deltas:  36% (38/105)[Kremote: Resolving deltas:  37% (39/105)[Kremote: Resolving deltas:  38% (40/105)[Kremote: Resolving deltas:  39% (41/105)[Kremote: Resolving deltas:  40% (42/105)[Kremote: Resolving deltas:  41% (44/105)[Kremote: Resolving deltas:  42% (45/105)[Kremote: Resolving deltas:  43% (46/105)[Kremote: Resolving deltas:  44% (47/105)[Kremote: Resolving deltas:  45% (48/105)[Kremote: Resolving deltas:  46% (49/105)[Kremote: Resolving deltas:  47% (50/105)[Kremote: Resolving deltas:  48% (51/105)[Kremote: Resolving deltas:  49% (52/105)[Kremote: Resolving deltas:  50% (53/105)[Kremote: Resolving deltas:  51% (54/105)[Kremote: Resolving deltas:  52% (55/105)[Kremote: Resolving deltas:  53% (56/105)[Kremote: Resolving deltas:  54% (57/105)[Kremote: Resolving deltas:  55% (58/105)[Kremote: Resolving deltas:  56% (59/105)[Kremote: Resolving deltas:  57% (60/105)[Kremote: Resolving deltas:  58% (61/105)[Kremote: Resolving deltas:  59% (62/105)[Kremote: Resolving deltas:  60% (63/105)[Kremote: Resolving deltas:  61% (65/105)[Kremote: Resolving deltas:  62% (66/105)[Kremote: Resolving deltas:  63% (67/105)[Kremote: Resolving deltas:  64% (68/105)[Kremote: Resolving deltas:  65% (69/105)[Kremote: Resolving deltas:  66% (70/105)[Kremote: Resolving deltas:  67% (71/105)[Kremote: Resolving deltas:  68% (72/105)[Kremote: Resolving deltas:  69% (73/105)[Kremote: Resolving deltas:  70% (74/105)[Kremote: Resolving deltas:  71% (75/105)[Kremote: Resolving deltas:  72% (76/105)[Kremote: Resolving deltas:  73% (77/105)[Kremote: Resolving deltas:  74% (78/105)[Kremote: Resolving deltas:  75% (79/105)[Kremote: Resolving deltas:  76% (80/105)[Kremote: Resolving deltas:  77% (81/105)[Kremote: Resolving deltas:  78% (82/105)[Kremote: Resolving deltas:  79% (83/105)[Kremote: Resolving deltas:  80% (84/105)[Kremote: Resolving deltas:  81% (86/105)[Kremote: Resolving deltas:  82% (87/105)[Kremote: Resolving deltas:  83% (88/105)[Kremote: Resolving deltas:  84% (89/105)[Kremote: Resolving deltas:  85% (90/105)[Kremote: Resolving deltas:  86% (91/105)[Kremote: Resolving deltas:  87% (92/105)[Kremote: Resolving deltas:  88% (93/105)[Kremote: Resolving deltas:  89% (94/105)[Kremote: Resolving deltas:  90% (95/105)[Kremote: Resolving deltas:  91% (96/105)[Kremote: Resolving deltas:  92% (97/105)[Kremote: Resolving deltas:  93% (98/105)[Kremote: Resolving deltas:  94% (99/105)[Kremote: Resolving deltas:  95% (100/105)[Kremote: Resolving deltas:  96% (101/105)[Kremote: Resolving deltas:  97% (102/105)[Kremote: Resolving deltas:  98% (103/105)[Kremote: Resolving deltas:  99% (104/105)[Kremote: Resolving deltas: 100% (105/105)[Kremote: Resolving deltas: 100% (105/105), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/siddique-saif/First-Project/pull/new/master[K
+remote: 
+To https://github.com/siddique-saif/First-Project.git
+ * [new branch]      master -> master
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ exit
+exit
+
+Script done on 2021-06-21 21:44:06+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,331 @@
+Script started on 2021-06-21 22:56:44+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda update conda
+conda: command not found
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda init
+conda: command not found
+]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ eval "$(/home/saif/miniconda3/bin/conda shell.YOUR_SHELL_NAME hook)"[1P hook)"[1P hook)"[1P hook)"[C[C[C[C[C[1P hook)"[C[C[C[C[1P hook)"[C[C[C[1P hook)"[C[C[1P hook)"[C[1P hook)"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C h[1Pook)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ho[C[1Pk)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C hoo[1Pk)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C hook[1P)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C hook)[1P"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C hook)"[K[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C hook)" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb hook)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca hook)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs hook)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch hook)"[A]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda init
+no change     /home/saif/miniconda3/condabin/conda
+no change     /home/saif/miniconda3/bin/conda
+no change     /home/saif/miniconda3/bin/conda-env
+no change     /home/saif/miniconda3/bin/activate
+no change     /home/saif/miniconda3/bin/deactivate
+no change     /home/saif/miniconda3/etc/profile.d/conda.sh
+no change     /home/saif/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/saif/miniconda3/shell/condabin/Conda.psm1
+no change     /home/saif/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/saif/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /home/saif/miniconda3/etc/profile.d/conda.csh
+modified      /home/saif/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda update conda
+Collecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / done
+Solving environment: \ | / - \ | / - \ | done
+
+## Package Plan ##
+
+  environment location: /home/saif/miniconda3
+
+  added / updated specs:
+    - conda
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    _openmp_mutex-4.5          |            1_gnu          22 KB
+    ca-certificates-2021.5.25  |       h06a4308_1         112 KB
+    certifi-2021.5.30          |   py39h06a4308_0         139 KB
+    cffi-1.14.5                |   py39h261ae71_0         226 KB
+    chardet-4.0.0              |py39h06a4308_1003         194 KB
+    conda-4.10.1               |   py39h06a4308_1         2.9 MB
+    conda-package-handling-1.7.3|   py39h27cfd23_1         884 KB
+    cryptography-3.4.7         |   py39hd23ed53_0         906 KB
+    idna-2.10                  |     pyhd3eb1b0_0          52 KB
+    ld_impl_linux-64-2.35.1    |       h7274673_9         586 KB
+    libgcc-ng-9.3.0            |      h5101ec6_17         4.8 MB
+    libgomp-9.3.0              |      h5101ec6_17         311 KB
+    libstdcxx-ng-9.3.0         |      hd4cf53a_17         3.1 MB
+    openssl-1.1.1k             |       h27cfd23_0         2.5 MB
+    pyopenssl-20.0.1           |     pyhd3eb1b0_1          49 KB
+    readline-8.1               |       h27cfd23_0         362 KB
+    requests-2.25.1            |     pyhd3eb1b0_0          52 KB
+    ruamel_yaml-0.15.100       |   py39h27cfd23_0         260 KB
+    setuptools-52.0.0          |   py39h06a4308_0         724 KB
+    six-1.16.0                 |     pyhd3eb1b0_0          18 KB
+    sqlite-3.35.4              |       hdfb4753_0         981 KB
+    tqdm-4.59.0                |     pyhd3eb1b0_1          93 KB
+    tzdata-2020f               |       h52ac0ba_0         113 KB
+    urllib3-1.26.4             |     pyhd3eb1b0_0         105 KB
+    ------------------------------------------------------------
+                                           Total:        19.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-4.5-1_gnu
+  libgomp            pkgs/main/linux-64::libgomp-9.3.0-h5101ec6_17
+
+The following packages will be REMOVED:
+
+  libedit-3.1.20191231-h14c3975_1
+  pip-20.3.1-py39h06a4308_0
+  wheel-0.36.1-pyhd3eb1b0_0
+
+The following packages will be UPDATED:
+
+  ca-certificates                      2020.12.8-h06a4308_0 --> 2021.5.25-h06a4308_1
+  certifi                          2020.12.5-py39h06a4308_0 --> 2021.5.30-py39h06a4308_0
+  cffi                                1.14.4-py39h261ae71_0 --> 1.14.5-py39h261ae71_0
+  chardet                           3.0.4-py39h06a4308_1003 --> 4.0.0-py39h06a4308_1003
+  conda                                4.9.2-py39h06a4308_0 --> 4.10.1-py39h06a4308_1
+  conda-package-han~                   1.7.2-py39h27cfd23_1 --> 1.7.3-py39h27cfd23_1
+  cryptography                         3.3.1-py39h3c74f83_0 --> 3.4.7-py39hd23ed53_0
+  ld_impl_linux-64                        2.33.1-h53a641e_7 --> 2.35.1-h7274673_9
+  libgcc-ng                                9.1.0-hdf63c60_0 --> 9.3.0-h5101ec6_17
+  libstdcxx-ng                             9.1.0-hdf63c60_0 --> 9.3.0-hd4cf53a_17
+  openssl                                 1.1.1i-h27cfd23_0 --> 1.1.1k-h27cfd23_0
+  pyopenssl                             20.0.0-pyhd3eb1b0_1 --> 20.0.1-pyhd3eb1b0_1
+  readline                                   8.0-h7b6447c_0 --> 8.1-h27cfd23_0
+  requests                              2.25.0-pyhd3eb1b0_0 --> 2.25.1-pyhd3eb1b0_0
+  ruamel_yaml                        0.15.80-py39h27cfd23_0 --> 0.15.100-py39h27cfd23_0
+  setuptools                          51.0.0-py39h06a4308_2 --> 52.0.0-py39h06a4308_0
+  six                pkgs/main/linux-64::six-1.15.0-py39h0~ --> pkgs/main/noarch::six-1.16.0-pyhd3eb1b0_0
+  sqlite                                  3.33.0-h62c20be_0 --> 3.35.4-hdfb4753_0
+  tqdm                                  4.54.1-pyhd3eb1b0_0 --> 4.59.0-pyhd3eb1b0_1
+  tzdata                                   2020d-h14c3975_0 --> 2020f-h52ac0ba_0
+  urllib3                                      1.25.11-py_0 --> 1.26.4-pyhd3eb1b0_0
+
+The following packages will be DOWNGRADED:
+
+  idna                                            2.10-py_0 --> 2.10-pyhd3eb1b0_0
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+readline-8.1         | 362 KB    |                                                                               |   0% readline-8.1         | 362 KB    | ###3                                                                          |   4% readline-8.1         | 362 KB    | ################9                                                             |  22% readline-8.1         | 362 KB    | #####################################3                                        |  49% readline-8.1         | 362 KB    | ##########################################################################7   |  97% readline-8.1         | 362 KB    | ############################################################################# | 100% 
+ruamel_yaml-0.15.100 | 260 KB    |                                                                               |   0% ruamel_yaml-0.15.100 | 260 KB    | ####7                                                                         |   6% ruamel_yaml-0.15.100 | 260 KB    | #####################################9                                        |  49% ruamel_yaml-0.15.100 | 260 KB    | ############################################################################# | 100% ruamel_yaml-0.15.100 | 260 KB    | ############################################################################# | 100% 
+six-1.16.0           | 18 KB     |                                                                               |   0% six-1.16.0           | 18 KB     | ####################################################################          |  88% six-1.16.0           | 18 KB     | ############################################################################# | 100% 
+ld_impl_linux-64-2.3 | 586 KB    |                                                                               |   0% ld_impl_linux-64-2.3 | 586 KB    | ##1                                                                           |   3% ld_impl_linux-64-2.3 | 586 KB    | ################8                                                             |  22% ld_impl_linux-64-2.3 | 586 KB    | #######################################9                                      |  52% ld_impl_linux-64-2.3 | 586 KB    | #######################################################################4      |  93% ld_impl_linux-64-2.3 | 586 KB    | ############################################################################# | 100% 
+idna-2.10            | 52 KB     |                                                                               |   0% idna-2.10            | 52 KB     | #######################6                                                      |  31% idna-2.10            | 52 KB     | ############################################################################# | 100% 
+tqdm-4.59.0          | 93 KB     |                                                                               |   0% tqdm-4.59.0          | 93 KB     | #############2                                                                |  17% tqdm-4.59.0          | 93 KB     | ############################################################################# | 100% tqdm-4.59.0          | 93 KB     | ############################################################################# | 100% 
+cffi-1.14.5          | 226 KB    |                                                                               |   0% cffi-1.14.5          | 226 KB    | #####4                                                                        |   7% cffi-1.14.5          | 226 KB    | ################################################9                             |  64% cffi-1.14.5          | 226 KB    | ############################################################################# | 100% cffi-1.14.5          | 226 KB    | ############################################################################# | 100% 
+chardet-4.0.0        | 194 KB    |                                                                               |   0% chardet-4.0.0        | 194 KB    | ######3                                                                       |   8% chardet-4.0.0        | 194 KB    | #########################################################1                    |  74% chardet-4.0.0        | 194 KB    | ############################################################################# | 100% chardet-4.0.0        | 194 KB    | ############################################################################# | 100% 
+libgcc-ng-9.3.0      | 4.8 MB    |                                                                               |   0% libgcc-ng-9.3.0      | 4.8 MB    | 2                                                                             |   0% libgcc-ng-9.3.0      | 4.8 MB    | ##2                                                                           |   3% libgcc-ng-9.3.0      | 4.8 MB    | #####7                                                                        |   7% libgcc-ng-9.3.0      | 4.8 MB    | #########                                                                     |  12% libgcc-ng-9.3.0      | 4.8 MB    | #############                                                                 |  17% libgcc-ng-9.3.0      | 4.8 MB    | ##################2                                                           |  24% libgcc-ng-9.3.0      | 4.8 MB    | ######################7                                                       |  30% libgcc-ng-9.3.0      | 4.8 MB    | ###########################8                                                  |  36% libgcc-ng-9.3.0      | 4.8 MB    | ################################5                                             |  42% libgcc-ng-9.3.0      | 4.8 MB    | ####################################8                                         |  48% libgcc-ng-9.3.0      | 4.8 MB    | ###########################################8                                  |  57% libgcc-ng-9.3.0      | 4.8 MB    | ################################################3                             |  63% libgcc-ng-9.3.0      | 4.8 MB    | ######################################################6                       |  71% libgcc-ng-9.3.0      | 4.8 MB    | ###########################################################6                  |  77% libgcc-ng-9.3.0      | 4.8 MB    | #################################################################1            |  85% libgcc-ng-9.3.0      | 4.8 MB    | ######################################################################1       |  91% libgcc-ng-9.3.0      | 4.8 MB    | ##########################################################################6   |  97% libgcc-ng-9.3.0      | 4.8 MB    | ############################################################################# | 100% 
+urllib3-1.26.4       | 105 KB    |                                                                               |   0% urllib3-1.26.4       | 105 KB    | ###########7                                                                  |  15% urllib3-1.26.4       | 105 KB    | ############################################################################# | 100% urllib3-1.26.4       | 105 KB    | ############################################################################# | 100% 
+setuptools-52.0.0    | 724 KB    |                                                                               |   0% setuptools-52.0.0    | 724 KB    | #7                                                                            |   2% setuptools-52.0.0    | 724 KB    | ############################9                                                 |  38% setuptools-52.0.0    | 724 KB    | ##################################################################3           |  86% setuptools-52.0.0    | 724 KB    | ############################################################################# | 100% 
+requests-2.25.1      | 52 KB     |                                                                               |   0% requests-2.25.1      | 52 KB     | #######################4                                                      |  31% requests-2.25.1      | 52 KB     | ############################################################################# | 100% requests-2.25.1      | 52 KB     | ############################################################################# | 100% 
+sqlite-3.35.4        | 981 KB    |                                                                               |   0% sqlite-3.35.4        | 981 KB    | #2                                                                            |   2% sqlite-3.35.4        | 981 KB    | ####################                                                          |  26% sqlite-3.35.4        | 981 KB    | #########################################4                                    |  54% sqlite-3.35.4        | 981 KB    | #####################################################9                        |  70% sqlite-3.35.4        | 981 KB    | ############################################################################# | 100% sqlite-3.35.4        | 981 KB    | ############################################################################# | 100% 
+libstdcxx-ng-9.3.0   | 3.1 MB    |                                                                               |   0% libstdcxx-ng-9.3.0   | 3.1 MB    | 3                                                                             |   1% libstdcxx-ng-9.3.0   | 3.1 MB    | ########1                                                                     |  11% libstdcxx-ng-9.3.0   | 3.1 MB    | ##########4                                                                   |  14% libstdcxx-ng-9.3.0   | 3.1 MB    | #############5                                                                |  18% libstdcxx-ng-9.3.0   | 3.1 MB    | ################3                                                             |  21% libstdcxx-ng-9.3.0   | 3.1 MB    | #####################7                                                        |  28% libstdcxx-ng-9.3.0   | 3.1 MB    | ############################7                                                 |  37% libstdcxx-ng-9.3.0   | 3.1 MB    | #################################3                                            |  43% libstdcxx-ng-9.3.0   | 3.1 MB    | ######################################                                        |  49% libstdcxx-ng-9.3.0   | 3.1 MB    | #########################################9                                    |  54% libstdcxx-ng-9.3.0   | 3.1 MB    | #############################################4                                |  59% libstdcxx-ng-9.3.0   | 3.1 MB    | ##################################################                            |  65% libstdcxx-ng-9.3.0   | 3.1 MB    | #####################################################9                        |  70% libstdcxx-ng-9.3.0   | 3.1 MB    | ##########################################################2                   |  76% libstdcxx-ng-9.3.0   | 3.1 MB    | ##############################################################1               |  81% libstdcxx-ng-9.3.0   | 3.1 MB    | ##################################################################            |  86% libstdcxx-ng-9.3.0   | 3.1 MB    | #####################################################################8        |  91% libstdcxx-ng-9.3.0   | 3.1 MB    | #########################################################################3    |  95% libstdcxx-ng-9.3.0   | 3.1 MB    | ############################################################################8 | 100% libstdcxx-ng-9.3.0   | 3.1 MB    | ############################################################################# | 100% 
+tzdata-2020f         | 113 KB    |                                                                               |   0% tzdata-2020f         | 113 KB    | ##########9                                                                   |  14% tzdata-2020f         | 113 KB    | ############################################################################# | 100% tzdata-2020f         | 113 KB    | ############################################################################# | 100% 
+ca-certificates-2021 | 112 KB    |                                                                               |   0% ca-certificates-2021 | 112 KB    | ###########                                                                   |  14% ca-certificates-2021 | 112 KB    | ############################################################################# | 100% ca-certificates-2021 | 112 KB    | ############################################################################# | 100% 
+libgomp-9.3.0        | 311 KB    |                                                                               |   0% libgomp-9.3.0        | 311 KB    | ###9                                                                          |   5% libgomp-9.3.0        | 311 KB    | ###############################################5                              |  62% libgomp-9.3.0        | 311 KB    | ############################################################################# | 100% libgomp-9.3.0        | 311 KB    | ############################################################################# | 100% 
+cryptography-3.4.7   | 906 KB    |                                                                               |   0% cryptography-3.4.7   | 906 KB    | #3                                                                            |   2% cryptography-3.4.7   | 906 KB    | ##############9                                                               |  19% cryptography-3.4.7   | 906 KB    | #################################9                                            |  44% cryptography-3.4.7   | 906 KB    | ################################################9                             |  64% cryptography-3.4.7   | 906 KB    | ###################################################################9          |  88% cryptography-3.4.7   | 906 KB    | ############################################################################# | 100% 
+certifi-2021.5.30    | 139 KB    |                                                                               |   0% certifi-2021.5.30    | 139 KB    | ########8                                                                     |  11% certifi-2021.5.30    | 139 KB    | ############################################################################# | 100% certifi-2021.5.30    | 139 KB    | ############################################################################# | 100% 
+conda-package-handli | 884 KB    |                                                                               |   0% conda-package-handli | 884 KB    | #3                                                                            |   2% conda-package-handli | 884 KB    | #############9                                                                |  18% conda-package-handli | 884 KB    | ####################9                                                         |  27% conda-package-handli | 884 KB    | ##############################6                                               |  40% conda-package-handli | 884 KB    | ###############################################4                              |  62% conda-package-handli | 884 KB    | ####################################################################3         |  89% conda-package-handli | 884 KB    | ############################################################################# | 100% 
+conda-4.10.1         | 2.9 MB    |                                                                               |   0% conda-4.10.1         | 2.9 MB    | 4                                                                             |   1% conda-4.10.1         | 2.9 MB    | ####1                                                                         |   5% conda-4.10.1         | 2.9 MB    | ########3                                                                     |  11% conda-4.10.1         | 2.9 MB    | ##############2                                                               |  18% conda-4.10.1         | 2.9 MB    | ####################4                                                         |  27% conda-4.10.1         | 2.9 MB    | ########################6                                                     |  32% conda-4.10.1         | 2.9 MB    | ##############################5                                               |  40% conda-4.10.1         | 2.9 MB    | ###################################1                                          |  46% conda-4.10.1         | 2.9 MB    | #######################################2                                      |  51% conda-4.10.1         | 2.9 MB    | ###########################################                                   |  56% conda-4.10.1         | 2.9 MB    | ##############################################8                               |  61% conda-4.10.1         | 2.9 MB    | ##################################################9                           |  66% conda-4.10.1         | 2.9 MB    | ######################################################7                       |  71% conda-4.10.1         | 2.9 MB    | ##########################################################                    |  75% conda-4.10.1         | 2.9 MB    | #############################################################8                |  80% conda-4.10.1         | 2.9 MB    | #################################################################6            |  85% conda-4.10.1         | 2.9 MB    | ####################################################################9         |  90% conda-4.10.1         | 2.9 MB    | ########################################################################2     |  94% conda-4.10.1         | 2.9 MB    | ###########################################################################2  |  98% conda-4.10.1         | 2.9 MB    | ############################################################################# | 100% 
+openssl-1.1.1k       | 2.5 MB    |                                                                               |   0% openssl-1.1.1k       | 2.5 MB    | 4                                                                             |   1% openssl-1.1.1k       | 2.5 MB    | ###7                                                                          |   5% openssl-1.1.1k       | 2.5 MB    | ######1                                                                       |   8% openssl-1.1.1k       | 2.5 MB    | #########                                                                     |  12% openssl-1.1.1k       | 2.5 MB    | ###########8                                                                  |  15% openssl-1.1.1k       | 2.5 MB    | ###############1                                                              |  20% openssl-1.1.1k       | 2.5 MB    | ###################4                                                          |  25% openssl-1.1.1k       | 2.5 MB    | #######################2                                                      |  30% openssl-1.1.1k       | 2.5 MB    | ###########################5                                                  |  36% openssl-1.1.1k       | 2.5 MB    | ###############################3                                              |  41% openssl-1.1.1k       | 2.5 MB    | ###################################1                                          |  46% openssl-1.1.1k       | 2.5 MB    | #######################################4                                      |  51% openssl-1.1.1k       | 2.5 MB    | ###########################################2                                  |  56% openssl-1.1.1k       | 2.5 MB    | ##############################################9                               |  61% openssl-1.1.1k       | 2.5 MB    | ##################################################7                           |  66% openssl-1.1.1k       | 2.5 MB    | #######################################################                       |  72% openssl-1.1.1k       | 2.5 MB    | ##########################################################8                   |  76% openssl-1.1.1k       | 2.5 MB    | ################################################################              |  83% openssl-1.1.1k       | 2.5 MB    | ####################################################################3         |  89% openssl-1.1.1k       | 2.5 MB    | ########################################################################6     |  94% openssl-1.1.1k       | 2.5 MB    | ############################################################################# | 100% openssl-1.1.1k       | 2.5 MB    | ############################################################################# | 100% 
+pyopenssl-20.0.1     | 49 KB     |                                                                               |   0% pyopenssl-20.0.1     | 49 KB     | #########################1                                                    |  33% pyopenssl-20.0.1     | 49 KB     | ############################################################################# | 100% pyopenssl-20.0.1     | 49 KB     | ############################################################################# | 100% 
+_openmp_mutex-4.5    | 22 KB     |                                                                               |   0% _openmp_mutex-4.5    | 22 KB     | ########################################################9                     |  74% _openmp_mutex-4.5    | 22 KB     | ############################################################################# | 100% 
+Preparing transaction: - \ | done
+Verifying transaction: - \ | / - \ done
+Executing transaction: / - \ | / - \ | / - \ | done
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda --version
+conda 4.10.1
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda install wget
+Collecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ done
+Solving environment: / - \ | done
+
+## Package Plan ##
+
+  environment location: /home/saif/miniconda3
+
+  added / updated specs:
+    - wget
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    wget-1.20.1                |       h20c2e04_0         818 KB
+    ------------------------------------------------------------
+                                           Total:         818 KB
+
+The following NEW packages will be INSTALLED:
+
+  wget               pkgs/main/linux-64::wget-1.20.1-h20c2e04_0
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+wget-1.20.1          | 818 KB    |                                                                               |   0% wget-1.20.1          | 818 KB    | #5                                                                            |   2% wget-1.20.1          | 818 KB    | ######                                                                        |   8% wget-1.20.1          | 818 KB    | ##########5                                                                   |  14% wget-1.20.1          | 818 KB    | ###################5                                                          |  25% wget-1.20.1          | 818 KB    | #################################1                                            |  43% wget-1.20.1          | 818 KB    | ######################################################1                       |  70% wget-1.20.1          | 818 KB    | ######################################################################7       |  92% wget-1.20.1          | 818 KB    | ############################################################################# | 100% 
+Preparing transaction: - done
+Verifying transaction: | done
+Executing transaction: - done
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ connda [K[K[K[Kda inf [Ko --envs
+# conda environments:
+#
+base                  *  /home/saif/miniconda3
+
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda searcch [K[K[Kh pandas
+Loading channels: - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ done
+# Name                       Version           Build  Channel             
+pandas                        0.20.3  py27h820b67f_2  pkgs/main           
+pandas                        0.20.3  py27hfd1eabf_2  pkgs/main           
+pandas                        0.20.3  py35h85c2c75_2  pkgs/main           
+pandas                        0.20.3  py35hd2a53da_2  pkgs/main           
+pandas                        0.20.3  py36h6022372_2  pkgs/main           
+pandas                        0.20.3  py36h842e28d_2  pkgs/main           
+pandas                        0.21.0  py27he307072_1  pkgs/main           
+pandas                        0.21.0  py35hee8c687_1  pkgs/main           
+pandas                        0.21.0  py36h78bd809_1  pkgs/main           
+pandas                        0.21.1  py27h38cdd7d_0  pkgs/main           
+pandas                        0.21.1  py35h20b78c2_0  pkgs/main           
+pandas                        0.21.1  py36h20b78c2_0  pkgs/main           
+pandas                        0.22.0  py27hf484d3e_0  pkgs/main           
+pandas                        0.22.0  py35hf484d3e_0  pkgs/main           
+pandas                        0.22.0  py36hf484d3e_0  pkgs/main           
+pandas                        0.23.0  py27h637b7d7_0  pkgs/main           
+pandas                        0.23.0  py35h637b7d7_0  pkgs/main           
+pandas                        0.23.0  py36h637b7d7_0  pkgs/main           
+pandas                        0.23.1  py27h637b7d7_0  pkgs/main           
+pandas                        0.23.1  py35h637b7d7_0  pkgs/main           
+pandas                        0.23.1  py36h637b7d7_0  pkgs/main           
+pandas                        0.23.2  py27h04863e7_0  pkgs/main           
+pandas                        0.23.2  py36h04863e7_0  pkgs/main           
+pandas                        0.23.2  py37h04863e7_0  pkgs/main           
+pandas                        0.23.3  py27h04863e7_0  pkgs/main           
+pandas                        0.23.3  py35h04863e7_0  pkgs/main           
+pandas                        0.23.3  py36h04863e7_0  pkgs/main           
+pandas                        0.23.3  py37h04863e7_0  pkgs/main           
+pandas                        0.23.4  py27h04863e7_0  pkgs/main           
+pandas                        0.23.4  py35h04863e7_0  pkgs/main           
+pandas                        0.23.4  py36h04863e7_0  pkgs/main           
+pandas                        0.23.4  py37h04863e7_0  pkgs/main           
+pandas                        0.24.0  py27he6710b0_0  pkgs/main           
+pandas                        0.24.0  py36he6710b0_0  pkgs/main           
+pandas                        0.24.0  py37he6710b0_0  pkgs/main           
+pandas                        0.24.1  py27he6710b0_0  pkgs/main           
+pandas                        0.24.1  py36he6710b0_0  pkgs/main           
+pandas                        0.24.1  py37he6710b0_0  pkgs/main           
+pandas                        0.24.2  py27he6710b0_0  pkgs/main           
+pandas                        0.24.2  py36he6710b0_0  pkgs/main           
+pandas                        0.24.2  py37he6710b0_0  pkgs/main           
+pandas                        0.25.0  py36he6710b0_0  pkgs/main           
+pandas                        0.25.0  py37he6710b0_0  pkgs/main           
+pandas                        0.25.1  py36he6710b0_0  pkgs/main           
+pandas                        0.25.1  py37he6710b0_0  pkgs/main           
+pandas                        0.25.2  py36he6710b0_0  pkgs/main           
+pandas                        0.25.2  py37he6710b0_0  pkgs/main           
+pandas                        0.25.3  py36he6710b0_0  pkgs/main           
+pandas                        0.25.3  py37he6710b0_0  pkgs/main           
+pandas                        0.25.3  py38he6710b0_0  pkgs/main           
+pandas                         1.0.0  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.0  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.0  py38h0573a6f_0  pkgs/main           
+pandas                         1.0.1  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.1  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.1  py38h0573a6f_0  pkgs/main           
+pandas                         1.0.2  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.2  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.2  py38h0573a6f_0  pkgs/main           
+pandas                         1.0.3  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.3  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.3  py38h0573a6f_0  pkgs/main           
+pandas                         1.0.4  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.4  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.4  py38h0573a6f_0  pkgs/main           
+pandas                         1.0.5  py36h0573a6f_0  pkgs/main           
+pandas                         1.0.5  py37h0573a6f_0  pkgs/main           
+pandas                         1.0.5  py38h0573a6f_0  pkgs/main           
+pandas                         1.1.0  py36he6710b0_0  pkgs/main           
+pandas                         1.1.0  py37he6710b0_0  pkgs/main           
+pandas                         1.1.0  py38he6710b0_0  pkgs/main           
+pandas                         1.1.1  py36he6710b0_0  pkgs/main           
+pandas                         1.1.1  py37he6710b0_0  pkgs/main           
+pandas                         1.1.1  py38he6710b0_0  pkgs/main           
+pandas                         1.1.2  py36he6710b0_0  pkgs/main           
+pandas                         1.1.2  py37he6710b0_0  pkgs/main           
+pandas                         1.1.2  py38he6710b0_0  pkgs/main           
+pandas                         1.1.3  py36he6710b0_0  pkgs/main           
+pandas                         1.1.3  py37he6710b0_0  pkgs/main           
+pandas                         1.1.3  py38he6710b0_0  pkgs/main           
+pandas                         1.1.3  py39h31985d5_0  pkgs/main           
+pandas                         1.1.5  py36h2531618_0  pkgs/main           
+pandas                         1.1.5  py36ha9443f7_0  pkgs/main           
+pandas                         1.1.5  py37h2531618_0  pkgs/main           
+pandas                         1.1.5  py37ha9443f7_0  pkgs/main           
+pandas                         1.1.5  py38h2531618_0  pkgs/main           
+pandas                         1.1.5  py38ha9443f7_0  pkgs/main           
+pandas                         1.1.5  py39ha9443f7_0  pkgs/main           
+pandas                         1.2.0  py37ha9443f7_0  pkgs/main           
+pandas                         1.2.0  py38ha9443f7_0  pkgs/main           
+pandas                         1.2.0  py39ha9443f7_0  pkgs/main           
+pandas                         1.2.1  py37ha9443f7_0  pkgs/main           
+pandas                         1.2.1  py38ha9443f7_0  pkgs/main           
+pandas                         1.2.1  py39ha9443f7_0  pkgs/main           
+pandas                         1.2.2  py37ha9443f7_0  pkgs/main           
+pandas                         1.2.2  py38ha9443f7_0  pkgs/main           
+pandas                         1.2.2  py39ha9443f7_0  pkgs/main           
+pandas                         1.2.3  py37ha9443f7_0  pkgs/main           
+pandas                         1.2.3  py38ha9443f7_0  pkgs/main           
+pandas                         1.2.3  py39ha9443f7_0  pkgs/main           
+pandas                         1.2.4  py37h2531618_0  pkgs/main           
+pandas                         1.2.4  py37ha9443f7_0  pkgs/main           
+pandas                         1.2.4  py38h2531618_0  pkgs/main           
+pandas                         1.2.4  py38ha9443f7_0  pkgs/main           
+pandas                         1.2.4  py39h2531618_0  pkgs/main           
+pandas                         1.2.4  py39ha9443f7_0  pkgs/main           
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ conda list
+# packages in environment at /home/saif/miniconda3:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             4.5                       1_gnu  
+brotlipy                  0.7.0           py39h27cfd23_1003  
+ca-certificates           2021.5.25            h06a4308_1  
+certifi                   2021.5.30        py39h06a4308_0  
+cffi                      1.14.5           py39h261ae71_0  
+chardet                   4.0.0           py39h06a4308_1003  
+conda                     4.10.1           py39h06a4308_1  
+conda-package-handling    1.7.3            py39h27cfd23_1  
+cryptography              3.4.7            py39hd23ed53_0  
+idna                      2.10               pyhd3eb1b0_0  
+ld_impl_linux-64          2.35.1               h7274673_9  
+libffi                    3.3                  he6710b0_2  
+libgcc-ng                 9.3.0               h5101ec6_17  
+libgomp                   9.3.0               h5101ec6_17  
+libstdcxx-ng              9.3.0               hd4cf53a_17  
+ncurses                   6.2                  he6710b0_1  
+openssl                   1.1.1k               h27cfd23_0  
+pycosat                   0.6.3            py39h27cfd23_0  
+pycparser                 2.20                       py_2  
+pyopenssl                 20.0.1             pyhd3eb1b0_1  
+pysocks                   1.7.1            py39h06a4308_0  
+python                    3.9.1                hdb3f193_2  
+readline                  8.1                  h27cfd23_0  
+requests                  2.25.1             pyhd3eb1b0_0  
+ruamel_yaml               0.15.100         py39h27cfd23_0  
+setuptools                52.0.0           py39h06a4308_0  
+six                       1.16.0             pyhd3eb1b0_0  
+sqlite                    3.35.4               hdfb4753_0  
+tk                        8.6.10               hbc83047_0  
+tqdm                      4.59.0             pyhd3eb1b0_1  
+tzdata                    2020f                h52ac0ba_0  
+urllib3                   1.26.4             pyhd3eb1b0_0  
+wget                      1.20.1               h20c2e04_0  
+xz                        5.2.5                h7b6447c_0  
+yaml                      0.2.5                h7b6447c_0  
+zlib                      1.2.11               h7b6447c_3  
+(base) ]0;saif@DESKTOP-D7JD7DM: /mnt/c/Users/Saif/Documents/Tiger/MLE Module[01;32msaif@DESKTOP-D7JD7DM[00m:[01;34m/mnt/c/Users/Saif/Documents/Tiger/MLE Module[00m$ exit
+exit
+
+Script done on 2021-06-21 23:03:07+05:30 [COMMAND_EXIT_CODE="0"]
